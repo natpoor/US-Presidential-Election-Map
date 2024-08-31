@@ -8,6 +8,12 @@
 # 
 # NB: You have to add Maine and Nebraska manually below the election_data section.
 
+# Also note, I pre-seeding several states to make sure the code was working, you can delete all that
+# or keep it as you see fit, it isn't trying to be some earth-shattering prediction, all I am trying 
+# to do is make sure the code works. This way you can run it as-is and see that, yes, some of the states
+# do end up with the colors they should based on the entry in the "values" column of the tibble.
+# I'm trying to make code that works, and you have to test your code (and test, and test).
+
 library(usmap) 
 library(ggplot2)
 library(tidyverse)
