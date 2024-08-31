@@ -6,7 +6,7 @@
 # August, 2024
 # Code is provided "as is", no guarantees, your mileage may vary. 
 # 
-# NB: You have to add Maine and Nebraska manually.
+# NB: You have to add Maine and Nebraska manually below the election_data section.
 
 library(usmap) 
 library(ggplot2)
