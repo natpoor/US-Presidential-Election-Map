@@ -19,5 +19,5 @@ It seems to work (although I thought it wasn’t coloring in the correct states 
 
 Who maintains and contributes to the project
 
-Well sure I put it all together (but like I said it would not be possibly without a ton of work from other people, especially the ggplot library and obviously the usmap library, and R itself), but I’m not maintaining it, I’m just putting it up in GitHub.
+Well sure I put it all together (but like I said it would not be possible without a ton of work from other people, especially the ggplot library and obviously the usmap library, and R itself), but I’m not maintaining it, I’m just putting it up in GitHub.
 
